@@ -5,7 +5,7 @@ from nltk.corpus import framenet as fn
 
 i = 0
 
-regex = re.compile(r'Core.*?Source.*?\n')
+regex = re.compile(r'Core:.*?Source \(')
 
 for frame in fn.frames():
     result = re.search(regex, str(frame))
