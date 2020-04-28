@@ -1,7 +1,6 @@
-количество: 57
+количество: 51
 
 названия:
-Be_translation_equivalent
 Becoming_detached
 Being_detached
 Bringing
@@ -13,16 +12,13 @@ Cotheme
 Departing
 Detaching
 Emanating
-Emitting
 Emptying
-Exchange_currency
 Excreting
 Fleeing
 Fluidic_motion
 Food_gathering
 Getting_underway
 Getting_vehicle_underway
-Have_as_translation_equivalent
 Intentional_traversing
 Level_of_light
 Light_movement
@@ -38,7 +34,6 @@ Passing
 Path_shape
 Planned_trajectory
 Quitting_a_place
-Reference_text
 Removing
 Removing_scenario
 Ride_vehicle
@@ -51,7 +46,6 @@ Source_of_getting
 Source_path_goal
 Taking
 Theft
-Translating
 Travel
 Traversing
 Use_vehicle
